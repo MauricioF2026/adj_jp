@@ -1,0 +1,542 @@
+[
+  {
+    "type": "adj",
+    "kanji": "良い",
+    "romaji": "yoi",
+    "es": "bueno",
+    "sentence_ja": "この本は良いです。",
+    "sentence_romaji": "Kono hon wa yoi desu.",
+    "sentence_es": "Este libro es bueno."
+  },
+  {
+    "type": "adj",
+    "kanji": "すごい",
+    "romaji": "sugoi",
+    "es": "fabuloso",
+    "sentence_ja": "その映画はすごいです。",
+    "sentence_romaji": "Sono eiga wa sugoi desu.",
+    "sentence_es": "Esa película es fabulosa."
+  },
+  {
+    "type": "adj",
+    "kanji": "かっこいい",
+    "romaji": "kakkoii",
+    "es": "maravilloso / atractivo",
+    "sentence_ja": "あの人はかっこいいです。",
+    "sentence_romaji": "Ano hito wa kakkoii desu.",
+    "sentence_es": "Esa persona es muy atractiva."
+  },
+  {
+    "type": "adj",
+    "kanji": "正しい",
+    "romaji": "tadashii",
+    "es": "correcto",
+    "sentence_ja": "その答えは正しいです。",
+    "sentence_romaji": "Sono kotae wa tadashii desu.",
+    "sentence_es": "Esa respuesta es correcta."
+  },
+  {
+    "type": "adj",
+    "kanji": "簡単な",
+    "romaji": "kantan na",
+    "es": "simple",
+    "sentence_ja": "この問題は簡単です。",
+    "sentence_romaji": "Kono mondai wa kantan desu.",
+    "sentence_es": "Este problema es simple."
+  },
+  {
+    "type": "adj",
+    "kanji": "優しい",
+    "romaji": "yasashii",
+    "es": "amable",
+    "sentence_ja": "彼はとても優しいです。",
+    "sentence_romaji": "Kare wa totemo yasashii desu.",
+    "sentence_es": "Él es muy amable."
+  },
+  {
+    "type": "adj",
+    "kanji": "嬉しい",
+    "romaji": "ureshii",
+    "es": "contento",
+    "sentence_ja": "私はとても嬉しいです。",
+    "sentence_romaji": "Watashi wa totemo ureshii desu.",
+    "sentence_es": "Estoy muy contento."
+  },
+  {
+    "type": "adj",
+    "kanji": "悪い",
+    "romaji": "warui",
+    "es": "malo",
+    "sentence_ja": "この天気は悪いです。",
+    "sentence_romaji": "Kono tenki wa warui desu.",
+    "sentence_es": "Este clima es malo."
+  },
+  {
+    "type": "adj",
+    "kanji": "ダサい",
+    "romaji": "dasai",
+    "es": "de mal gusto",
+    "sentence_ja": "その服はちょっとダサいです。",
+    "sentence_romaji": "Sono fuku wa chotto dasai desu.",
+    "sentence_es": "Esa ropa es un poco de mal gusto."
+  },
+  {
+    "type": "adj",
+    "kanji": "間違った",
+    "romaji": "machigatta",
+    "es": "incorrecto",
+    "sentence_ja": "それは間違った情報です。",
+    "sentence_romaji": "Sore wa machigatta jōhō desu.",
+    "sentence_es": "Esa es información incorrecta."
+  },
+  {
+    "type": "adj",
+    "kanji": "難しい",
+    "romaji": "muzukashii",
+    "es": "difícil",
+    "sentence_ja": "日本語は難しいです。",
+    "sentence_romaji": "Nihongo wa muzukashii desu.",
+    "sentence_es": "El japonés es difícil."
+  },
+  {
+    "type": "adj",
+    "kanji": "悲しい",
+    "romaji": "kanashii",
+    "es": "triste",
+    "sentence_ja": "そのニュースは悲しいです。",
+    "sentence_romaji": "Sono nyūsu wa kanashii desu.",
+    "sentence_es": "Esa noticia es triste."
+  },
+  {
+    "type": "adj",
+    "kanji": "めんどい",
+    "romaji": "mendoi",
+    "es": "molesto / pesado",
+    "sentence_ja": "宿題をするのはめんどいです。",
+    "sentence_romaji": "Shukudai o suru no wa mendoi desu.",
+    "sentence_es": "Hacer la tarea es pesado."
+  },
+  {
+    "type": "adj",
+    "kanji": "大きい",
+    "romaji": "ookii",
+    "es": "grande",
+    "sentence_ja": "この家は大きいです。",
+    "sentence_romaji": "Kono ie wa ookii desu.",
+    "sentence_es": "Esta casa es grande."
+  },
+  {
+    "type": "adj",
+    "kanji": "小さい",
+    "romaji": "chiisai",
+    "es": "pequeño",
+    "sentence_ja": "その犬は小さいです。",
+    "sentence_romaji": "Sono inu wa chiisai desu.",
+    "sentence_es": "Ese perro es pequeño."
+  },
+  {
+    "type": "adj",
+    "kanji": "太い",
+    "romaji": "futoi",
+    "es": "grueso",
+    "sentence_ja": "このペンは太いです。",
+    "sentence_romaji": "Kono pen wa futoi desu.",
+    "sentence_es": "Este bolígrafo es grueso."
+  },
+  {
+    "type": "adj",
+    "kanji": "細い",
+    "romaji": "hosoi",
+    "es": "delgado",
+    "sentence_ja": "この線は細いです。",
+    "sentence_romaji": "Kono sen wa hosoi desu.",
+    "sentence_es": "Esta línea es delgada."
+  },
+  {
+    "type": "adj",
+    "kanji": "重い",
+    "romaji": "omoi",
+    "es": "pesado",
+    "sentence_ja": "この箱は重いです。",
+    "sentence_romaji": "Kono hako wa omoi desu.",
+    "sentence_es": "Esta caja es pesada."
+  },
+  {
+    "type": "adj",
+    "kanji": "軽い",
+    "romaji": "karui",
+    "es": "ligero",
+    "sentence_ja": "このかばんは軽いです。",
+    "sentence_romaji": "Kono kaban wa karui desu.",
+    "sentence_es": "Este bolso es ligero."
+  },
+  {
+    "type": "adj",
+    "kanji": "長い",
+    "romaji": "nagai",
+    "es": "largo",
+    "sentence_ja": "この道は長いです。",
+    "sentence_romaji": "Kono michi wa nagai desu.",
+    "sentence_es": "Este camino es largo."
+  },
+  {
+    "type": "adj",
+    "kanji": "短い",
+    "romaji": "mijikai",
+    "es": "corto",
+    "sentence_ja": "この授業は短いです。",
+    "sentence_romaji": "Kono jugyō wa mijikai desu.",
+    "sentence_es": "Esta clase es corta."
+  },
+  {
+    "type": "adj",
+    "kanji": "高い",
+    "romaji": "takai",
+    "es": "alto",
+    "sentence_ja": "この山はとても高いです。",
+    "sentence_romaji": "Kono yama wa totemo takai desu.",
+    "sentence_es": "Esta montaña es muy alta."
+  },
+  {
+    "type": "adj",
+    "kanji": "低い",
+    "romaji": "hikui",
+    "es": "bajo",
+    "sentence_ja": "この音は低いです。",
+    "sentence_romaji": "Kono oto wa hikui desu.",
+    "sentence_es": "Este sonido es bajo."
+  },
+  {
+    "type": "adj",
+    "kanji": "速い",
+    "romaji": "hayai",
+    "es": "rápido",
+    "sentence_ja": "彼は走るのが速いです。",
+    "sentence_romaji": "Kare wa hashiru no ga hayai desu.",
+    "sentence_es": "Él corre rápido."
+  },
+  {
+    "type": "adj",
+    "kanji": "遅い",
+    "romaji": "osoi",
+    "es": "lento / tarde",
+    "sentence_ja": "バスはいつも遅いです。",
+    "sentence_romaji": "Basu wa itsumo osoi desu.",
+    "sentence_es": "El autobús siempre es lento."
+  },
+  {
+    "type": "adj",
+    "kanji": "多い",
+    "romaji": "ooi",
+    "es": "mucho / muchos",
+    "sentence_ja": "この店はお客さんが多いです。",
+    "sentence_romaji": "Kono mise wa okyaku-san ga ooi desu.",
+    "sentence_es": "En esta tienda hay muchos clientes."
+  },
+  {
+    "type": "adj",
+    "kanji": "少ない",
+    "romaji": "sukunai",
+    "es": "pocos",
+    "sentence_ja": "今日は仕事が少ないです。",
+    "sentence_romaji": "Kyō wa shigoto ga sukunai desu.",
+    "sentence_es": "Hoy hay poco trabajo."
+  },
+  {
+    "type": "adj",
+    "kanji": "おいしい",
+    "romaji": "oishii",
+    "es": "delicioso",
+    "sentence_ja": "このケーキはおいしいです。",
+    "sentence_romaji": "Kono kēki wa oishii desu.",
+    "sentence_es": "Este pastel es delicioso."
+  },
+  {
+    "type": "adj",
+    "kanji": "不味い",
+    "romaji": "mazui",
+    "es": "asqueroso / de mal sabor",
+    "sentence_ja": "その料理は不味いです。",
+    "sentence_romaji": "Sono ryōri wa mazui desu.",
+    "sentence_es": "Esa comida sabe horrible."
+  },
+  {
+    "type": "adj",
+    "kanji": "美しい",
+    "romaji": "utsukushii",
+    "es": "hermosa",
+    "sentence_ja": "この景色は美しいです。",
+    "sentence_romaji": "Kono keshiki wa utsukushii desu.",
+    "sentence_es": "Este paisaje es hermoso."
+  },
+  {
+    "type": "adj",
+    "kanji": "醜い",
+    "romaji": "minikui",
+    "es": "feo",
+    "sentence_ja": "その行動は醜いです。",
+    "sentence_romaji": "Sono kōdō wa minikui desu.",
+    "sentence_es": "Esa conducta es fea."
+  },
+  {
+    "type": "adj",
+    "kanji": "高い",
+    "romaji": "takai",
+    "es": "caro",
+    "sentence_ja": "この時計は高いです。",
+    "sentence_romaji": "Kono tokei wa takai desu.",
+    "sentence_es": "Este reloj es caro."
+  },
+  {
+    "type": "adj",
+    "kanji": "安い",
+    "romaji": "yasui",
+    "es": "barato",
+    "sentence_ja": "この本は安いです。",
+    "sentence_romaji": "Kono hon wa yasui desu.",
+    "sentence_es": "Este libro es barato."
+  },
+  {
+    "type": "adj",
+    "kanji": "暑い",
+    "romaji": "atsui",
+    "es": "caluroso (tiempo)",
+    "sentence_ja": "今日はとても暑いです。",
+    "sentence_romaji": "Kyō wa totemo atsui desu.",
+    "sentence_es": "Hoy hace mucho calor."
+  },
+  {
+    "type": "adj",
+    "kanji": "寒い",
+    "romaji": "samui",
+    "es": "frío (tiempo)",
+    "sentence_ja": "冬は寒いです。",
+    "sentence_romaji": "Fuyu wa samui desu.",
+    "sentence_es": "En invierno hace frío."
+  },
+  {
+    "type": "adj",
+    "kanji": "新しい",
+    "romaji": "atarashii",
+    "es": "nuevo",
+    "sentence_ja": "この車は新しいです。",
+    "sentence_romaji": "Kono kuruma wa atarashii desu.",
+    "sentence_es": "Este coche es nuevo."
+  },
+  {
+    "type": "adj",
+    "kanji": "古い",
+    "romaji": "furui",
+    "es": "antiguo",
+    "sentence_ja": "この建物は古いです。",
+    "sentence_romaji": "Kono tatemono wa furui desu.",
+    "sentence_es": "Este edificio es antiguo."
+  },
+  {
+    "type": "adj",
+    "kanji": "新鮮な",
+    "romaji": "shinsen na",
+    "es": "fresco",
+    "sentence_ja": "この魚は新鮮です。",
+    "sentence_romaji": "Kono sakana wa shinsen desu.",
+    "sentence_es": "Este pescado está fresco."
+  },
+  {
+    "type": "adj",
+    "kanji": "明るい",
+    "romaji": "akarui",
+    "es": "luminoso / alegre",
+    "sentence_ja": "この部屋は明るいです。",
+    "sentence_romaji": "Kono heya wa akarui desu.",
+    "sentence_es": "Este cuarto es luminoso."
+  },
+  {
+    "type": "adj",
+    "kanji": "暗い",
+    "romaji": "kurai",
+    "es": "oscuro / sombrío",
+    "sentence_ja": "外は暗いです。",
+    "sentence_romaji": "Soto wa kurai desu.",
+    "sentence_es": "Afuera está oscuro."
+  },
+  {
+    "type": "adj",
+    "kanji": "清潔な",
+    "romaji": "seiketsu na",
+    "es": "limpio",
+    "sentence_ja": "この部屋は清潔です。",
+    "sentence_romaji": "Kono heya wa seiketsu desu.",
+    "sentence_es": "Esta habitación está limpia."
+  },
+  {
+    "type": "adj",
+    "kanji": "汚い",
+    "romaji": "kitanai",
+    "es": "sucio",
+    "sentence_ja": "そのテーブルは汚いです。",
+    "sentence_romaji": "Sono tēburu wa kitanai desu.",
+    "sentence_es": "Esa mesa está sucia."
+  },
+  {
+    "type": "adj",
+    "kanji": "強い",
+    "romaji": "tsuyoi",
+    "es": "fuerte",
+    "sentence_ja": "彼はとても強いです。",
+    "sentence_romaji": "Kare wa totemo tsuyoi desu.",
+    "sentence_es": "Él es muy fuerte."
+  },
+  {
+    "type": "adj",
+    "kanji": "弱い",
+    "romaji": "yowai",
+    "es": "débil",
+    "sentence_ja": "そのチームは少し弱いです。",
+    "sentence_romaji": "Sono chīmu wa sukoshi yowai desu.",
+    "sentence_es": "Ese equipo es algo débil."
+  },
+  {
+    "type": "adj",
+    "kanji": "安全な",
+    "romaji": "anzen na",
+    "es": "seguro",
+    "sentence_ja": "この町は安全です。",
+    "sentence_romaji": "Kono machi wa anzen desu.",
+    "sentence_es": "Esta ciudad es segura."
+  },
+  {
+    "type": "adj",
+    "kanji": "危ない",
+    "romaji": "abunai",
+    "es": "peligroso",
+    "sentence_ja": "ここは少し危ないです。",
+    "sentence_romaji": "Koko wa sukoshi abunai desu.",
+    "sentence_es": "Este lugar es un poco peligroso."
+  },
+  {
+    "type": "adj",
+    "kanji": "乾いた",
+    "romaji": "kawaita",
+    "es": "seco",
+    "sentence_ja": "洗濯物はもう乾いたです。",
+    "sentence_romaji": "Sentakumono wa mō kawaita desu.",
+    "sentence_es": "La ropa ya está seca."
+  },
+  {
+    "type": "adj",
+    "kanji": "ぬれた",
+    "romaji": "nureta",
+    "es": "mojado",
+    "sentence_ja": "道がぬれています。",
+    "sentence_romaji": "Michi ga nurete imasu.",
+    "sentence_es": "El camino está mojado."
+  },
+  {
+    "type": "adj",
+    "kanji": "静かな",
+    "romaji": "shizuka na",
+    "es": "silencioso / tranquilo",
+    "sentence_ja": "この図書館は静かです。",
+    "sentence_romaji": "Kono toshokan wa shizuka desu.",
+    "sentence_es": "Esta biblioteca es silenciosa."
+  },
+  {
+    "type": "adj",
+    "kanji": "騒々しい",
+    "romaji": "sōzōshii",
+    "es": "ruidoso",
+    "sentence_ja": "その部屋は騒々しいです。",
+    "sentence_romaji": "Sono heya wa sōzōshii desu.",
+    "sentence_es": "Esa habitación es ruidosa."
+  },
+  {
+    "type": "adj",
+    "kanji": "可愛い",
+    "romaji": "kawaii",
+    "es": "lindo",
+    "sentence_ja": "その猫は可愛いです。",
+    "sentence_romaji": "Sono neko wa kawaii desu.",
+    "sentence_es": "Ese gato es lindo."
+  },
+  {
+    "type": "adj",
+    "kanji": "赤い",
+    "romaji": "akai",
+    "es": "rojo",
+    "sentence_ja": "赤い花が好きです。",
+    "sentence_romaji": "Akai hana ga suki desu.",
+    "sentence_es": "Me gustan las flores rojas."
+  },
+  {
+    "type": "adj",
+    "kanji": "オレンジ",
+    "romaji": "orenji",
+    "es": "naranja",
+    "sentence_ja": "オレンジのシャツを着ています。",
+    "sentence_romaji": "Orenji no shatsu o kite imasu.",
+    "sentence_es": "Llevo una camisa naranja."
+  },
+  {
+    "type": "adj",
+    "kanji": "黄色い",
+    "romaji": "kiiroi",
+    "es": "amarillo",
+    "sentence_ja": "黄色い傘を買いました。",
+    "sentence_romaji": "Kiiroi kasa o kaimashita.",
+    "sentence_es": "Compré un paraguas amarillo."
+  },
+  {
+    "type": "adj",
+    "kanji": "緑",
+    "romaji": "midori",
+    "es": "verde",
+    "sentence_ja": "緑の服が好きです。",
+    "sentence_romaji": "Midori no fuku ga suki desu.",
+    "sentence_es": "Me gusta la ropa verde."
+  },
+  {
+    "type": "adj",
+    "kanji": "青い",
+    "romaji": "aoi",
+    "es": "azul",
+    "sentence_ja": "空は青いです。",
+    "sentence_romaji": "Sora wa aoi desu.",
+    "sentence_es": "El cielo es azul."
+  },
+  {
+    "type": "adj",
+    "kanji": "ピンク",
+    "romaji": "pinku",
+    "es": "rosa",
+    "sentence_ja": "ピンクの花がきれいです。",
+    "sentence_romaji": "Pinku no hana ga kirei desu.",
+    "sentence_es": "Las flores rosas son bonitas."
+  },
+  {
+    "type": "adj",
+    "kanji": "黒い",
+    "romaji": "kuroi",
+    "es": "negro",
+    "sentence_ja": "黒い靴を買いました。",
+    "sentence_romaji": "Kuroi kutsu o kaimashita.",
+    "sentence_es": "Compré unos zapatos negros."
+  },
+  {
+    "type": "adj",
+    "kanji": "白い",
+    "romaji": "shiroi",
+    "es": "blanco",
+    "sentence_ja": "白いシャツが好きです。",
+    "sentence_romaji": "Shiroi shatsu ga suki desu.",
+    "sentence_es": "Me gustan las camisas blancas."
+  },
+  {
+    "type": "adj",
+    "kanji": "茶色",
+    "romaji": "chairo",
+    "es": "marrón",
+    "sentence_ja": "茶色のバッグを持っています。",
+    "sentence_romaji": "Chairo no baggu o motte imasu.",
+    "sentence_es": "Tengo un bolso marrón."
+  }
+]
