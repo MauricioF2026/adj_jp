@@ -1,0 +1,659 @@
+[
+  {
+    "kanji": "認める",
+    "kana": "みとめる",
+    "romaji": "mitomeru",
+    "es": "admitir / reconocer",
+    "sentence_ja": "自分の間違いを認める。",
+    "sentence_romaji": "Jibun no machigai o mitomeru.",
+    "sentence_es": "Admitir el propio error."
+  },
+  {
+    "kanji": "答える",
+    "kana": "こたえる",
+    "romaji": "kotaeru",
+    "es": "responder",
+    "sentence_ja": "先生の質問に答える。",
+    "sentence_romaji": "Sensei no shitsumon ni kotaeru.",
+    "sentence_es": "Responder a la pregunta del profesor."
+  },
+  {
+    "kanji": "着く",
+    "kana": "つく",
+    "romaji": "tsuku",
+    "es": "llegar",
+    "sentence_ja": "駅に着く。",
+    "sentence_romaji": "Eki ni tsuku.",
+    "sentence_es": "Llegar a la estación."
+  },
+  {
+    "kanji": "焼く",
+    "kana": "やく",
+    "romaji": "yaku",
+    "es": "asar / hornear",
+    "sentence_ja": "魚を焼く。",
+    "sentence_romaji": "Sakana o yaku.",
+    "sentence_es": "Asar pescado."
+  },
+  {
+    "kanji": "浴びる",
+    "kana": "あびる",
+    "romaji": "abiru",
+    "es": "bañarse / ducharse",
+    "sentence_ja": "朝シャワーを浴びる。",
+    "sentence_romaji": "Asa shawā o abiru.",
+    "sentence_es": "Ducharse por la mañana."
+  },
+  {
+    "kanji": "居る",
+    "kana": "いる",
+    "romaji": "iru",
+    "es": "estar, haber (personas/animales)",
+    "sentence_ja": "部屋に猫が居る。",
+    "sentence_romaji": "Heya ni neko ga iru.",
+    "sentence_es": "Hay un gato en la habitación."
+  },
+  {
+    "kanji": "信じる",
+    "kana": "しんじる",
+    "romaji": "shinjiru",
+    "es": "creer",
+    "sentence_ja": "自分を信じる。",
+    "sentence_romaji": "Jibun o shinjiru.",
+    "sentence_es": "Creer en uno mismo."
+  },
+  {
+    "kanji": "噛む",
+    "kana": "かむ",
+    "romaji": "kamu",
+    "es": "morder / masticar",
+    "sentence_ja": "よく噛んで食べる。",
+    "sentence_romaji": "Yoku kande taberu.",
+    "sentence_es": "Comer masticando bien."
+  },
+  {
+    "kanji": "沸く",
+    "kana": "わく",
+    "romaji": "waku",
+    "es": "hervir",
+    "sentence_ja": "お湯が沸く。",
+    "sentence_romaji": "Oyu ga waku.",
+    "sentence_es": "El agua se hierve."
+  },
+  {
+    "kanji": "借りる",
+    "kana": "かりる",
+    "romaji": "kariru",
+    "es": "tomar prestado",
+    "sentence_ja": "友達から本を借りる。",
+    "sentence_romaji": "Tomodachi kara hon o kariru.",
+    "sentence_es": "Tomar un libro prestado de un amigo."
+  },
+  {
+    "kanji": "立てる",
+    "kana": "たてる",
+    "romaji": "tateru",
+    "es": "levantar / erigir",
+    "sentence_ja": "旗を立てる。",
+    "sentence_romaji": "Hata o tateru.",
+    "sentence_es": "Levantar una bandera."
+  },
+  {
+    "kanji": "焼ける",
+    "kana": "やける",
+    "romaji": "yakeru",
+    "es": "quemarse / tostarse",
+    "sentence_ja": "パンが焼ける。",
+    "sentence_romaji": "Pan ga yakeru.",
+    "sentence_es": "El pan se tuesta."
+  },
+  {
+    "kanji": "買う",
+    "kana": "かう",
+    "romaji": "kau",
+    "es": "comprar",
+    "sentence_ja": "新しい靴を買う。",
+    "sentence_romaji": "Atarashii kutsu o kau.",
+    "sentence_es": "Comprar zapatos nuevos."
+  },
+  {
+    "kanji": "呼ぶ",
+    "kana": "よぶ",
+    "romaji": "yobu",
+    "es": "llamar",
+    "sentence_ja": "友達の名前を呼ぶ。",
+    "sentence_romaji": "Tomodachi no namae o yobu.",
+    "sentence_es": "Llamar el nombre de un amigo."
+  },
+  {
+    "kanji": "運ぶ",
+    "kana": "はこぶ",
+    "romaji": "hakobu",
+    "es": "llevar / transportar",
+    "sentence_ja": "荷物を運ぶ。",
+    "sentence_romaji": "Nimotsu o hakobu.",
+    "sentence_es": "Transportar el equipaje."
+  },
+  {
+    "kanji": "登る",
+    "kana": "のぼる",
+    "romaji": "noboru",
+    "es": "escalar / subir",
+    "sentence_ja": "山に登る。",
+    "sentence_romaji": "Yama ni noboru.",
+    "sentence_es": "Subir a la montaña."
+  },
+  {
+    "kanji": "閉まる",
+    "kana": "しまる",
+    "romaji": "shimaru",
+    "es": "cerrarse",
+    "sentence_ja": "ドアが閉まる。",
+    "sentence_romaji": "Doa ga shimaru.",
+    "sentence_es": "La puerta se cierra."
+  },
+  {
+    "kanji": "来る",
+    "kana": "くる",
+    "romaji": "kuru",
+    "es": "venir",
+    "sentence_ja": "友達が家に来る。",
+    "sentence_romaji": "Tomodachi ga ie ni kuru.",
+    "sentence_es": "Un amigo viene a casa."
+  },
+  {
+    "kanji": "比べる",
+    "kana": "くらべる",
+    "romaji": "kuraberu",
+    "es": "comparar",
+    "sentence_ja": "二つの案を比べる。",
+    "sentence_romaji": "Futatsu no an o kuraberu.",
+    "sentence_es": "Comparar dos propuestas."
+  },
+  {
+    "kanji": "凝らす",
+    "kana": "こらす",
+    "romaji": "korasu",
+    "es": "concentrar / enfocar",
+    "sentence_ja": "目を凝らす。",
+    "sentence_romaji": "Me o korasu.",
+    "sentence_es": "Aguzar la vista."
+  },
+{
+    "kanji": "数える",
+    "kana": "かぞえる",
+    "romaji": "kazoeru",
+    "es": "contar",
+    "sentence_ja": "星の数を数える。",
+    "sentence_romaji": "Hoshi no kazu o kazoeru.",
+    "sentence_es": "Contar la cantidad de estrellas."
+  },
+  {
+    "kanji": "泣く",
+    "kana": "なく",
+    "romaji": "naku",
+    "es": "llorar",
+    "sentence_ja": "子どもが泣く。",
+    "sentence_romaji": "Kodomo ga naku.",
+    "sentence_es": "El niño llora."
+  },
+  {
+    "kanji": "切る",
+    "kana": "きる",
+    "romaji": "kiru",
+    "es": "cortar",
+    "sentence_ja": "紙を切る。",
+    "sentence_romaji": "Kami o kiru.",
+    "sentence_es": "Cortar papel."
+  },
+  {
+    "kanji": "踊る",
+    "kana": "おどる",
+    "romaji": "odoru",
+    "es": "bailar",
+    "sentence_ja": "音楽に合わせて踊る。",
+    "sentence_romaji": "Ongaku ni awasete odoru.",
+    "sentence_es": "Bailar al ritmo de la música."
+  },
+  {
+    "kanji": "決める",
+    "kana": "きめる",
+    "romaji": "kimeru",
+    "es": "decidir",
+    "sentence_ja": "進路を決める。",
+    "sentence_romaji": "Shinro o kimeru.",
+    "sentence_es": "Decidir el camino a seguir."
+  },
+  {
+    "kanji": "掘る",
+    "kana": "ほる",
+    "romaji": "horu",
+    "es": "excavar",
+    "sentence_ja": "庭に穴を掘る。",
+    "sentence_romaji": "Niwa ni ana o horu.",
+    "sentence_es": "Excavar un hoyo en el jardín."
+  },
+  {
+    "kanji": "する",
+    "kana": "する",
+    "romaji": "suru",
+    "es": "hacer",
+    "sentence_ja": "宿題をする。",
+    "sentence_romaji": "Shukudai o suru.",
+    "sentence_es": "Hacer la tarea."
+  },
+  {
+    "kanji": "飲む",
+    "kana": "のむ",
+    "romaji": "nomu",
+    "es": "beber",
+    "sentence_ja": "水を飲む。",
+    "sentence_romaji": "Mizu o nomu.",
+    "sentence_es": "Beber agua."
+  },
+  {
+    "kanji": "食べる",
+    "kana": "たべる",
+    "romaji": "taberu",
+    "es": "comer",
+    "sentence_ja": "朝ごはんを食べる。",
+    "sentence_romaji": "Asagohan o taberu.",
+    "sentence_es": "Comer el desayuno."
+  },
+  {
+    "kanji": "惚れる",
+    "kana": "ほれる",
+    "romaji": "horeru",
+    "es": "enamorarse",
+    "sentence_ja": "彼女に惚れる。",
+    "sentence_romaji": "Kanojo ni horeru.",
+    "sentence_es": "Enamorarse de ella."
+  },
+  {
+    "kanji": "見つける",
+    "kana": "みつける",
+    "romaji": "mitsukeru",
+    "es": "encontrar",
+    "sentence_ja": "新しい仕事を見つける。",
+    "sentence_romaji": "Atarashii shigoto o mitsukeru.",
+    "sentence_es": "Encontrar un trabajo nuevo."
+  },
+  {
+    "kanji": "忘れる",
+    "kana": "わすれる",
+    "romaji": "wasureru",
+    "es": "olvidar",
+    "sentence_ja": "約束を忘れる。",
+    "sentence_romaji": "Yakusoku o wasureru.",
+    "sentence_es": "Olvidar una promesa."
+  },
+  {
+    "kanji": "あげる",
+    "kana": "あげる",
+    "romaji": "ageru",
+    "es": "dar",
+    "sentence_ja": "友達にプレゼントをあげる。",
+    "sentence_romaji": "Tomodachi ni purezento o ageru.",
+    "sentence_es": "Dar un regalo a un amigo."
+  },
+  {
+    "kanji": "行く",
+    "kana": "いく",
+    "romaji": "iku",
+    "es": "ir",
+    "sentence_ja": "学校へ行く。",
+    "sentence_romaji": "Gakkō e iku.",
+    "sentence_es": "Ir a la escuela."
+  },
+  {
+    "kanji": "生える",
+    "kana": "はえる",
+    "romaji": "haeru",
+    "es": "crecer / brotar",
+    "sentence_ja": "庭に草が生える。",
+    "sentence_romaji": "Niwa ni kusa ga haeru.",
+    "sentence_es": "La hierba crece en el jardín."
+  },
+  {
+    "kanji": "飛ぶ",
+    "kana": "とぶ",
+    "romaji": "tobu",
+    "es": "volar",
+    "sentence_ja": "鳥が空を飛ぶ。",
+    "sentence_romaji": "Tori ga sora o tobu.",
+    "sentence_es": "Un pájaro vuela por el cielo."
+  },
+  {
+    "kanji": "笑う",
+    "kana": "わらう",
+    "romaji": "warau",
+    "es": "reír",
+    "sentence_ja": "大きな声で笑う。",
+    "sentence_romaji": "Ōkina koe de warau.",
+    "sentence_es": "Reír a carcajadas."
+  },
+  {
+    "kanji": "習う",
+    "kana": "ならう",
+    "romaji": "narau",
+    "es": "aprender",
+    "sentence_ja": "日本語を習う。",
+    "sentence_romaji": "Nihongo o narau.",
+    "sentence_es": "Aprender japonés."
+  },
+  {
+    "kanji": "聞く",
+    "kana": "きく",
+    "romaji": "kiku",
+    "es": "escuchar / preguntar",
+    "sentence_ja": "音楽を聞く。",
+    "sentence_romaji": "Ongaku o kiku.",
+    "sentence_es": "Escuchar música."
+  },
+  {
+    "kanji": "暮らす",
+    "kana": "くらす",
+    "romaji": "kurasu",
+    "es": "vivir (llevar la vida)",
+    "sentence_ja": "田舎で暮らす。",
+    "sentence_romaji": "Inaka de kurasu.",
+    "sentence_es": "Vivir en el campo."
+  },
+  {
+    "kanji": "会う",
+    "kana": "あう",
+    "romaji": "au",
+    "es": "reunirse / encontrarse",
+    "sentence_ja": "友達に会う。",
+    "sentence_romaji": "Tomodachi ni au.",
+    "sentence_es": "Encontrarse con un amigo."
+  },
+  {
+    "kanji": "動く",
+    "kana": "うごく",
+    "romaji": "ugoku",
+    "es": "moverse",
+    "sentence_ja": "車が動く。",
+    "sentence_romaji": "Kuruma ga ugoku.",
+    "sentence_es": "El coche se mueve."
+  },
+  {
+    "kanji": "開ける",
+    "kana": "あける",
+    "romaji": "akeru",
+    "es": "abrir",
+    "sentence_ja": "窓を開ける。",
+    "sentence_romaji": "Mado o akeru.",
+    "sentence_es": "Abrir la ventana."
+  },
+  {
+    "kanji": "塗る",
+    "kana": "ぬる",
+    "romaji": "nuru",
+    "es": "pintar",
+    "sentence_ja": "壁を白く塗る。",
+    "sentence_romaji": "Kabe o shiroku nuru.",
+    "sentence_es": "Pintar la pared de blanco."
+  },
+  {
+    "kanji": "払う",
+    "kana": "はらう",
+    "romaji": "harau",
+    "es": "pagar",
+    "sentence_ja": "レストランでお金を払う。",
+    "sentence_romaji": "Resutoran de okane o harau.",
+    "sentence_es": "Pagar en el restaurante."
+  },
+  {
+    "kanji": "遊ぶ",
+    "kana": "あそぶ",
+    "romaji": "asobu",
+    "es": "jugar",
+    "sentence_ja": "公園で子どもたちが遊ぶ。",
+    "sentence_romaji": "Kōen de kodomotachi ga asobu.",
+    "sentence_es": "Los niños juegan en el parque."
+  },
+  {
+    "kanji": "祈る",
+    "kana": "いのる",
+    "romaji": "inoru",
+    "es": "orar / rezar",
+    "sentence_ja": "神様に幸せを祈る。",
+    "sentence_romaji": "Kamisama ni shiawase o inoru.",
+    "sentence_es": "Rezar por la felicidad."
+  },
+  {
+    "kanji": "守る",
+    "kana": "まもる",
+    "romaji": "mamoru",
+    "es": "proteger",
+    "sentence_ja": "約束を守る。",
+    "sentence_romaji": "Yakusoku o mamoru.",
+    "sentence_es": "Cumplir / proteger una promesa."
+  },
+  {
+    "kanji": "読む",
+    "kana": "よむ",
+    "romaji": "yomu",
+    "es": "leer",
+    "sentence_ja": "本を読む。",
+    "sentence_romaji": "Hon o yomu.",
+    "sentence_es": "Leer un libro."
+  },
+  {
+    "kanji": "惜しむ",
+    "kana": "おしむ",
+    "romaji": "oshimu",
+    "es": "lamentar / no querer gastar",
+    "sentence_ja": "時間を惜しむ。",
+    "sentence_romaji": "Jikan o oshimu.",
+    "sentence_es": "No querer desperdiciar el tiempo."
+  },
+  {
+    "kanji": "直す",
+    "kana": "なおす",
+    "romaji": "naosu",
+    "es": "reparar / corregir",
+    "sentence_ja": "壊れた時計を直す。",
+    "sentence_romaji": "Kowareta tokei o naosu.",
+    "sentence_es": "Reparar un reloj roto."
+  },
+  {
+    "kanji": "繰り返す",
+    "kana": "くりかえす",
+    "romaji": "kurikaesu",
+    "es": "repetir",
+    "sentence_ja": "同じ間違いを繰り返す。",
+    "sentence_romaji": "Onaji machigai o kurikaesu.",
+    "sentence_es": "Repetir el mismo error."
+  },
+  {
+    "kanji": "休む",
+    "kana": "やすむ",
+    "romaji": "yasumu",
+    "es": "descansar",
+    "sentence_ja": "今日は仕事を休む。",
+    "sentence_romaji": "Kyō wa shigoto o yasumu.",
+    "sentence_es": "Hoy descanso del trabajo."
+  },
+  {
+    "kanji": "走る",
+    "kana": "はしる",
+    "romaji": "hashiru",
+    "es": "correr",
+    "sentence_ja": "毎朝公園を走る。",
+    "sentence_romaji": "Maiasa kōen o hashiru.",
+    "sentence_es": "Correr por el parque cada mañana."
+  },
+{
+    "kanji": "言う",
+    "kana": "いう",
+    "romaji": "iu",
+    "es": "decir",
+    "sentence_ja": "本当のことを言う。",
+    "sentence_romaji": "Hontō no koto o iu.",
+    "sentence_es": "Decir la verdad."
+  },
+  {
+    "kanji": "売る",
+    "kana": "うる",
+    "romaji": "uru",
+    "es": "vender",
+    "sentence_ja": "古い本を売る。",
+    "sentence_romaji": "Furui hon o uru.",
+    "sentence_es": "Vender libros viejos."
+  },
+  {
+    "kanji": "見せる",
+    "kana": "みせる",
+    "romaji": "miseru",
+    "es": "mostrar",
+    "sentence_ja": "写真を見せる。",
+    "sentence_romaji": "Shashin o miseru.",
+    "sentence_es": "Mostrar una foto."
+  },
+  {
+    "kanji": "歌う",
+    "kana": "うたう",
+    "romaji": "utau",
+    "es": "cantar",
+    "sentence_ja": "カラオケで歌う。",
+    "sentence_romaji": "Karaoke de utau.",
+    "sentence_es": "Cantar en el karaoke."
+  },
+  {
+    "kanji": "座る",
+    "kana": "すわる",
+    "romaji": "suwaru",
+    "es": "sentarse",
+    "sentence_ja": "椅子に座る。",
+    "sentence_romaji": "Isu ni suwaru.",
+    "sentence_es": "Sentarse en una silla."
+  },
+  {
+    "kanji": "話す",
+    "kana": "はなす",
+    "romaji": "hanasu",
+    "es": "hablar",
+    "sentence_ja": "友達と日本語で話す。",
+    "sentence_romaji": "Tomodachi to Nihongo de hanasu.",
+    "sentence_es": "Hablar en japonés con un amigo."
+  },
+  {
+    "kanji": "盗む",
+    "kana": "ぬすむ",
+    "romaji": "nusumu",
+    "es": "robar",
+    "sentence_ja": "お金を盗む。",
+    "sentence_romaji": "Okane o nusumu.",
+    "sentence_es": "Robar dinero."
+  },
+  {
+    "kanji": "言い出す",
+    "kana": "いいだす",
+    "romaji": "iidasu",
+    "es": "empezar a decir / proponer",
+    "sentence_ja": "彼が急に新しい案を言い出す。",
+    "sentence_romaji": "Kare ga kyū ni atarashii an o iidasu.",
+    "sentence_es": "Él de repente propone una nueva idea."
+  },
+  {
+    "kanji": "泳ぐ",
+    "kana": "およぐ",
+    "romaji": "oyogu",
+    "es": "nadar",
+    "sentence_ja": "川で泳ぐ。",
+    "sentence_romaji": "Kawa de oyogu.",
+    "sentence_es": "Nadar en el río."
+  },
+  {
+    "kanji": "試す",
+    "kana": "ためす",
+    "romaji": "tamesu",
+    "es": "probar / intentar",
+    "sentence_ja": "新しい戦法を試す。",
+    "sentence_romaji": "Atarashii senpō o tamesu.",
+    "sentence_es": "Probar una nueva estrategia."
+  },
+  {
+    "kanji": "思う",
+    "kana": "おもう",
+    "romaji": "omou",
+    "es": "pensar / creer",
+    "sentence_ja": "そうだと思う。",
+    "sentence_romaji": "Sō da to omou.",
+    "sentence_es": "Creo que es así."
+  },
+  {
+    "kanji": "触れる",
+    "kana": "ふれる",
+    "romaji": "fureru",
+    "es": "tocar",
+    "sentence_ja": "芸術に触れる。",
+    "sentence_romaji": "Geijutsu ni fureru.",
+    "sentence_es": "Entrar en contacto con el arte."
+  },
+  {
+    "kanji": "分かる",
+    "kana": "わかる",
+    "romaji": "wakaru",
+    "es": "entender / comprender",
+    "sentence_ja": "日本語が少し分かる。",
+    "sentence_romaji": "Nihongo ga sukoshi wakaru.",
+    "sentence_es": "Entiendo un poco de japonés."
+  },
+  {
+    "kanji": "待つ",
+    "kana": "まつ",
+    "romaji": "matsu",
+    "es": "esperar",
+    "sentence_ja": "バスを待つ。",
+    "sentence_romaji": "Basu o matsu.",
+    "sentence_es": "Esperar el autobús."
+  },
+  {
+    "kanji": "歩く",
+    "kana": "あるく",
+    "romaji": "aruku",
+    "es": "caminar",
+    "sentence_ja": "公園を歩く。",
+    "sentence_romaji": "Kōen o aruku.",
+    "sentence_es": "Caminar por el parque."
+  },
+  {
+    "kanji": "洗う",
+    "kana": "あらう",
+    "romaji": "arau",
+    "es": "lavar",
+    "sentence_ja": "手をよく洗う。",
+    "sentence_romaji": "Te o yoku arau.",
+    "sentence_es": "Lavarse bien las manos."
+  },
+  {
+    "kanji": "勝つ",
+    "kana": "かつ",
+    "romaji": "katsu",
+    "es": "ganar",
+    "sentence_ja": "試合に勝つ。",
+    "sentence_romaji": "Shiai ni katsu.",
+    "sentence_es": "Ganar el partido."
+  },
+  {
+    "kanji": "働く",
+    "kana": "はたらく",
+    "romaji": "hataraku",
+    "es": "trabajar",
+    "sentence_ja": "会社で働く。",
+    "sentence_romaji": "Kaisha de hataraku.",
+    "sentence_es": "Trabajar en una empresa."
+  },
+  {
+    "kanji": "書く",
+    "kana": "かく",
+    "romaji": "kaku",
+    "es": "escribir",
+    "sentence_ja": "日記を書く。",
+    "sentence_romaji": "Nikki o kaku.",
+    "sentence_es": "Escribir un diario."
+  }
+]
