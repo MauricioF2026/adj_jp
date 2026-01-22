@@ -252,11 +252,6 @@
     "sentence_romaji": "Shiai wa itsu hajimarimasu ka.",
     "sentence_es": "¿Cuándo empieza la partida?"
   },
-Perfecto, sigo con el resto de pronombres usando el mismo formato (sentence_ja, sentence_romaji, sentence_es).
-​
-
-json
-[
   {
     "type": "pronoun",
     "category": "personal",
@@ -801,3 +796,4 @@ json
     "sentence_es": "¿Cuánto se tarda desde tu casa hasta la escuela?"
   }
 ]
+
